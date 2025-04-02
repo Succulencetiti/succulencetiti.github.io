@@ -1,0 +1,9 @@
+subject: Homelab
+listing-order: 3
+icon: "/assets/img/server.png"
+contents:
+  - title: Proxmox HA Cluster (projet en cours)
+    description: 
+      - 3 mini PCs Lenovo M70q en Cluster
+  
+    

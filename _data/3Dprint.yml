@@ -1,0 +1,18 @@
+subject: Impression 3D
+listing-order: 2
+icon: "/assets/img/3D-print.png"
+contents:
+  - title: Mini Server Rack
+
+    description:
+      - modelisation (Fusion 360) et impression d'un Mini Server Rack 
+      - accueil de 3 mini-PCs et 2 switchs pour un cluster Proxmox
+      - extensible
+    image: "/assets/img/rack.jpg"
+    date: Ongoing
+  - title: Emporte-Pièce
+
+    description: 
+      - emporte-pièces pour la création de bijoux en pâte polymère
+    date: 2010 - Ongoing
+ 
