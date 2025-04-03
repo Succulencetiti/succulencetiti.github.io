@@ -1,6 +1,6 @@
 subject: Homelab
 listing-order: 3
-icon: "/assets/img/server.png"
+icon: "/assets/img/servers.png"
 contents:
   - title: Proxmox HA Cluster (projet en cours)
     description: 
