@@ -1,6 +1,6 @@
 subject: Impression 3D
 listing-order: 2
-icon: "/assets/img/3D-printer.png"
+icon: "/assets/img/3D-printing.png"
 contents:
   - title: Mini Server Rack
 
@@ -8,7 +8,7 @@ contents:
       - modelisation (Fusion 360) et impression d'un Mini Server Rack 
       - accueil de 3 mini-PCs et 2 switchs pour un cluster Proxmox
       - extensible
-    image: "![]/assets/img/rack.jpg"
+    image: "/assets/img/rack.jpg"
     date: Ongoing
   - title: Emporte-Pièce
 

@@ -7,4 +7,8 @@ contents:
       - Automatiser le remplissage d'un AD ([https://github.com/Succulencetiti/ADpopulation](https://github.com/Succulencetiti/ADpopulation))
       - Automatiser le déploiement d'un AD (à venir)
     date: Avril 2025
-  
+  - title: Fork du projet "tssr-linux-debian-post-install"
+    description:
+      - script commenté ([https://github.com/Succulencetiti/tssr-linux-debian-post-install/tree/debianfork](https://github.com/Succulencetiti/tssr-linux-debian-post-install/tree/debianfork))
+      - Edition bashrc, nanorc et liste des paquets à installer
+    date: Avril 2025
